@@ -1,0 +1,88 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -122.4148634, 37.8082255 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14992181192311577270",
+      "Location" : {
+        "Address" : "145 Jefferson Street #600, San Francisco, CA 94133, United States",
+        "Business Name" : "Madame Tussauds San Francisco",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.8082255",
+          "Longitude" : "-122.4148634"
+        }
+      },
+      "Published" : "2017-10-16T16:42:15Z",
+      "Title" : "Madame Tussauds San Francisco",
+      "Updated" : "2017-10-16T16:42:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4010508, 37.7857182 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14446598574612765181",
+      "Location" : {
+        "Address" : "151 3rd Street, San Francisco, CA 94103, United States",
+        "Business Name" : "San Francisco Museum of Modern Art",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7857182",
+          "Longitude" : "-122.4010508"
+        }
+      },
+      "Published" : "2017-10-16T05:35:26Z",
+      "Title" : "San Francisco Museum of Modern Art",
+      "Updated" : "2017-10-16T05:35:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4338550, 37.7714550 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9093984487498457228",
+      "Location" : {
+        "Address" : "701 Haight Street, San Francisco, CA 94117, United States",
+        "Business Name" : "Black Sands Brewery",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7714550",
+          "Longitude" : "-122.4338550"
+        }
+      },
+      "Published" : "2017-10-16T05:10:38Z",
+      "Title" : "Black Sands Brewery",
+      "Updated" : "2017-10-16T05:10:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4220980, 37.7700281 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10750210652604664525",
+      "Location" : {
+        "Address" : "199 Valencia Street, San Francisco, CA 94103, United States",
+        "Business Name" : "Zeitgeist",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7700281",
+          "Longitude" : "-122.4220980"
+        }
+      },
+      "Published" : "2017-10-16T05:10:17Z",
+      "Title" : "Zeitgeist",
+      "Updated" : "2017-10-16T05:10:17Z"
+    },
+    "type" : "Feature"
+  } ]
+}
